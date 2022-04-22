@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/travelJournal/static/css/main.dd70ef4b.chunk.css",
+    "main.js": "/travelJournal/static/js/main.17732aa8.chunk.js",
+    "main.js.map": "/travelJournal/static/js/main.17732aa8.chunk.js.map",
+    "runtime-main.js": "/travelJournal/static/js/runtime-main.c15b9018.js",
+    "runtime-main.js.map": "/travelJournal/static/js/runtime-main.c15b9018.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/travelJournal/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f5f85804.chunk.js": "/travelJournal/static/js/2.f5f85804.chunk.js",
+    "static/js/2.f5f85804.chunk.js.map": "/travelJournal/static/js/2.f5f85804.chunk.js.map",
+    "index.html": "/travelJournal/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/travelJournal/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.dd70ef4b.chunk.css.map": "/travelJournal/static/css/main.dd70ef4b.chunk.css.map",
+    "static/js/2.f5f85804.chunk.js.LICENSE.txt": "/travelJournal/static/js/2.f5f85804.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c15b9018.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f5f85804.chunk.js",
+    "static/css/main.dd70ef4b.chunk.css",
+    "static/js/main.17732aa8.chunk.js"
+  ]
+}
